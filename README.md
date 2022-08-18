@@ -13,4 +13,5 @@ const iAmGlen = {
 ![](https://img.shields.io/badge/Code-JavaScript_(ES6+)-informational?style=flat&logo=JavaScript&logoColor=f7df1e&color=20232a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=61dafb&color=20232a)
 ![](https://img.shields.io/badge/Code-React_Router-informational?style=flat&logo=React-Router&logoColor=ca4245&color=20232a)
-  
+<br>
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=f7df1e&color=20232a)
